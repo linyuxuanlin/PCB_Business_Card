@@ -1,0 +1,2 @@
+Linux 驱动开发学习记录系列 (2)- 自己画一个 F1C100S 低成本的 Linux 核心板
+https://blog.csdn.net/weixin_43129735/article/details/114275947
